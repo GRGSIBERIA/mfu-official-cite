@@ -1,0 +1,1 @@
+document.write("(C) 2013 UnityでMMDを動かす会 All Rights Reserved.");
